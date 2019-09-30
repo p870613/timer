@@ -1,0 +1,10 @@
+C:\Users\p8706\source\repos\time\time\bin\Debug\time.exe.config
+C:\Users\p8706\source\repos\time\time\bin\Debug\time.exe
+C:\Users\p8706\source\repos\time\time\bin\Debug\time.pdb
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.csprojResolveAssemblyReference.cache
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.Form1.resources
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.Properties.Resources.resources
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.csproj.GenerateResource.Cache
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.csproj.CoreCompileInputs.cache
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.exe
+C:\Users\p8706\source\repos\time\time\obj\Debug\time.pdb
